@@ -1,0 +1,4 @@
+
+Amount: 40 UserID: 1 Budget: 830 Remaining Budget: 790 DateTime: 2025-09-28 23:05:32.812538
+Amount: 60 UserID: 1 Budget: 830 Remaining Budget: 770 DateTime: 2025-09-28 23:05:37.048664
+Amount: 100 UserID: 1 Budget: 830 Remaining Budget: 730 DateTime: 2025-09-28 23:05:41.251538
